@@ -2,6 +2,17 @@
 
 Welcome to the **OOP Project Collection** repository! This repository features a diverse collection of object-oriented programming (OOP) projects implemented in various programming languages and at different levels of complexity. Each project is accompanied by a README file that specifies the language used and its level of difficulty. 
 
+<pre>
+In each project, you will see a book icon with a different color, where each color indicates the difficulty level:
+
+📕 Red: Difficult
+📒 Yellow: Medium
+📗 Green: Easy
+</pre>
+
+![Screenshot 2024-06-23 133714](https://github.com/DoaaOsamaK/OOP-Java/assets/147305995/d15d7a33-3f79-4572-a62a-586874c44f2d)
+
+
 ## 📚 Table of Contents
 
 - [📦 Project Overview](#project-overview)
