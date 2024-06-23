@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Snake Game 📙
 
 This is a simple Snake game implemented in Java using Swing. The game allows the player to control a snake to eat apples and grow in length, while avoiding collisions with the walls and itself.
 
